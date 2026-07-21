@@ -37,6 +37,7 @@ Sou um profissional movido pelo aprendizado contínuo, unindo mais de 10 anos de
 
 ### 📫 Como falar comigo?
 
+- **Meu Website:** https://mariopedreiraduarte.github.io/Meu-portf-lio-/
 - **LinkedIn:** [Me encontre no LinkedIn](https://www.linkedin.com/in/mario-cesar-b4a466265)
 - **E-mail:** [marioduarte.01@outlook.com](mailto:mario_orapois@hotmail.com)
 - **WhatsApp:** [(11) 95224-1950](https://wa.me/5511952241950)
