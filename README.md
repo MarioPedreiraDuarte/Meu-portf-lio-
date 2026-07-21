@@ -33,14 +33,7 @@ Sou um profissional movido pelo aprendizado contínuo, unindo mais de 10 anos de
 
 ---
 
-### 📊 Estatísticas do GitHub
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarioPedreiraDuarte&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas do Mario" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioPedreiraDuarte&layout=compact&theme=radical&hide_border=true" alt="Linguagens mais usadas" height="150" />
-</p>
-
----
 
 ### 📫 Como falar comigo?
 
